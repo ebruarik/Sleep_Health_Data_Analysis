@@ -4,6 +4,7 @@ Bu proje, bireylerin yaşam tarzı alışkanlıklarının uyku kalitesi ve genel
 üzerindeki etkilerini analiz etmek amacıyla hazırlanmıştır.Bu çalışma, veri temizleme, özellik mühendisliği ve keşifçi veri analizi (EDA) süreçlerini içerir.
 
 Veri Seti Hakkında
+
 Bu çalışmada kullanılan Sleep Health and Lifestyle Dataset, 374 bireyden toplanan verileri içermektedir. Veri seti Kaggle'dan hazır olarak alınmıştır. Veri seti aşağıdaki temel parametreleri kapsamaktadır:
 - Demografik Bilgiler: Yaş, Cinsiyet, Meslek.
 - Uyku Verileri: Uyku Süresi, Uyku Kalitesi.
